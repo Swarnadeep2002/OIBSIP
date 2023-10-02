@@ -9,7 +9,6 @@ body {
     text-align: center;
     font-family: sans-serif;
 }
-
 #title {
     color: rgb(242, 10, 10);
 
@@ -18,13 +17,11 @@ body {
     font-size: 70px;
 }
 
-
 form {
     padding: 20px;
     width: 90%;
     text-align: center;
 }
-
 
 #btn {
     background: none;
@@ -92,7 +89,6 @@ i {
     margin: auto;
     list-style: none;
 }
-
 .todo {
     width: 80%;
     margin: 20px auto;
@@ -106,17 +102,14 @@ i {
     align-items: center;
     font-weight: 900;
 }
-
 .todo span {
     text-align: left;
     padding-left: 20px;
     width: 100%;
 }
-
 .todo:hover {
     box-shadow: 0px 0px 5px #7af5b8;
 }
-
 .check,
 .trash {
     cursor: pointer;
